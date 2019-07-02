@@ -1,2 +1,0 @@
-This is a new file added in the braqnch and i am going to push to remote repository.
-
